@@ -1,0 +1,15 @@
+.custom-card{
+    overflow: hidden;
+}
+
+.custom-card img{
+    transition: 1s;
+}
+
+.custom-card img:hover{
+    transform: scale(1.1);
+}
+
+.custom-button{
+    background: #ff416c;
+}

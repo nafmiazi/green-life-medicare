@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "name": "Department of Cancer",
+      "floor": "Second Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/PFyL0p7/cancer.jpg",
+      "about": "Cancer refers to any one of a large number of diseases characterized by the development of abnormal cells that divide uncontrollably and have the ability to infiltrate and destroy normal body tissue. Cancer often has the ability to spread throughout your body.Cancer is the second-leading cause of death in the world. But survival rates are improving for many types of cancer, thanks to improvements in cancer screening, treatment and prevention.",
+      "services": [
+        "Ampullary cancer",
+        "Anal cancer",
+        "Bone cancer",
+        "Breast cancer",
+        "Cervical cancer",
+        "Chordoma",
+        "Colon cancer",
+        "Esophageal cancer",
+        "Eye melanoma",
+        "Gallbladder cancer",
+        "Liver cancer",
+        "Ovarian cancer"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Department of Dentistry",
+      "floor": "Third Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/0fLQBmf/dentistry.jpg",
+      "about": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area. The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist.",
+      "services": [
+        "Dental hygiene",
+        "Oral health assessment",
+        "Dental implant maintenance",
+        "Dental sleep medicine",
+        "Maxillofacial prosthetics",
+        "Restore clefts",
+        "Orofacial pain and TMD",
+        "Orthodontics",
+        "Dentofacial orthopedics",
+        "Periodontics",
+        "Prosthodontics",
+        "Periodontal disease"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Department of Ophthalmology",
+      "floor": "Fourth Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/m8ShVmg/eyecare.jpg",
+      "about": "Ophthalmology is the study of medical conditions relating to the eye. Ophthalmologists are doctors who specialize in the medical and surgical treatment of this organ.A general practice doctor may refer someone to an ophthalmologist if they show symptoms of cataracts, eye infections, optic nerve problems, or other eye conditions.In this article, we look at what ophthalmologists do, including the types of conditions that they treat, the procedures they perform, and when a person might see this specialist.",
+      "services": [
+        "Cataracts",
+        "Coloboma",
+        "Colorblindness",
+        "Cornea transplant",
+        "Cosmetic surgery of the eyelids",
+        "Cranial arteritis",
+        "Electrophysiology",
+        "Fuchs dystrophy",
+        "LASIK eye surgery",
+        "Misaligned eyes",
+        "Ocular imaging",
+        "Optic neuritis"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Department of Gastrology",
+      "floor": "Fifth Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/8BFrXJD/gastro.jpg",
+      "about": "Gastroenterology is the study of the normal function and diseases of the esophagus, stomach, small intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver. It involves a detailed understanding of the normal action (physiology) of the gastrointestinal organs including the movement of material through the stomach and intestine (motility), the digestion and absorption of nutrients into the body, removal of waste from the system, and the function of the liver as a digestive organ. It includes common and important conditions such as colon polyps and cancer, hepatitis, gastroesophageal reflux (heartburn), peptic ulcer disease, colitis, gallbladder and biliary tract disease, nutritional problems, Irritable Bowel Syndrome (IBS), and pancreatitis. In essence, all normal activity and disease of the digestive organs is part of the study of Gastroenterology.",
+      "services": [
+        "24-hour pH monitoring",
+        "Barium enema",
+        "Clinical nutrition counseling",
+        "Colectomy",
+        "Constipation evaluation",
+        "Diagnostic endoscopy",
+        "Endoscopic mucosal resection",
+        "Endoscopic ultrasound",
+        "Esophagectomy",
+        "Fecal incontinence evaluation",
+        "Flexible sigmoidoscopy",
+        "Hepatobiliary disease evaluation"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Department of Gynocology",
+      "floor": "Sixth Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/QMsPn8J/gynocology.jpg",
+      "about": "Gynecology and obstetrics are twin subjects that deal with the female reproductive system. While obstetrics deals with pregnancy and its associated procedures and complications, gynaecology involves treating women who are not pregnant.Gynecology comprises of both medicine as well as surgical fields. While many of the gynaecological illnesses need hormonal and other pharmacological management, cancers, fibroids etc. require surgical removal.",
+      "services": [
+        "Abdominal hysterectomy",
+        "Amniotic band release surgery",
+        "Antepartum care",
+        "Safe Birth",
+        "Colposcopy",
+        "C-section",
+        "Diagnostic hysteroscopy",
+        "Blood donation",
+        "Endometrial ablation",
+        "Enterocele repair",
+        "Facial feminization surgery",
+        "Female hormone replacement therapy"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Department of Orthopedics",
+      "floor": "Seventh Floor",
+      "schedule": 24,
+      "img": "https://i.ibb.co/SsgjSnS/orthopedic.jpg",
+      "about": "Orthopedists use medical, physical and rehabilitative methods as well as surgery and are involved in all aspects of heath care pertaining to the musculoskeletal system. It is a specialty of incredible breadth and variety. Orthopedists treat a immense variety of diseases and conditions, including fractures and dislocations, torn ligaments, sprains and strains tendon injuries, pulled muscles and bursitis ruptured disks, sciatica, low back pain, and scoliosis knock knees, bow legs, bunions and hammer toes, arthritis and osteoporosis, bone tumors, muscular dystrophy and cerebral palsy, club foot and unequal leg length abnormalities of the fingers and toes, and growth abnormalities.",
+      "services": [
+        "Acetabular osteotomy",
+        "Ankle arthroscopy",
+        "Bankart repair",
+        "Bone grafting",
+        "Cartilage repair",
+        "Cervical spine fusion",
+        "Disk replacement",
+        "Diskectomy",
+        "Elbow arthroscopy",
+        "External fixation",
+        "Finger fusion",
+        "Foraminotomy"
+      ]
+    }
+  ]

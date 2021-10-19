@@ -1,0 +1,11 @@
+.most-read{
+    border-radius: 20px;
+}
+
+.signIn, .doctor, .interview{
+    background-color: #2E279D;
+}
+
+.doctor, .interview{
+    border-radius: 30px;
+}

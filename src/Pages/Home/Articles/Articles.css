@@ -1,0 +1,41 @@
+.covid{
+    background-color: #2E279D;
+}
+.covid-card{
+    background-color: #DEEEFE;
+}
+
+.service-card{
+    background-color: #499AFA;
+}
+
+.doctor-card{
+    background-color: #2E279D;
+}
+
+.health-underline{
+    position: relative;   
+}
+.health-underline::before{
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 40%;
+    width: 100px;
+    height: 2px;
+    background-color: gray;
+}
+
+.health-underline::after{
+    content: '';
+    position: absolute;
+    top: 15px;
+    right: 40%;
+    width: 100px;
+    height: 2px;
+    background-color: gray;
+}
+
+.icon, .care-title{
+    color: #ff416c;
+}

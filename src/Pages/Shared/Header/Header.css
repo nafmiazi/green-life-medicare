@@ -1,0 +1,24 @@
+.navigation{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-bar{
+    background-color: gray;
+}
+
+.nav-color{
+    color: rgb(179, 255, 0) !important;
+}
+
+.alt-title{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .title{
+        display: none;
+    }
+
+    .alt-title{
+        display: inline;
+    }
+}

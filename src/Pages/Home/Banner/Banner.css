@@ -1,0 +1,32 @@
+.banner1{
+    margin-top: -300px;
+    margin-right: -150px;
+}
+
+.banner1 h1{
+    font-size: 60px;
+}
+
+.banner2, .banner3, .banner4{
+    background-color: rgba(0, 0, 0, 0.71);
+    border-radius: 20px;
+}
+
+@media screen and (max-width:600px) {
+    .banner1{
+        margin-top: 0px;
+        margin-right: 0px;
+    }
+    
+    .banner1 h1,.banner2 h1,.banner3 h1,.banner4 h1{
+        font-size: 25px;
+    }
+
+    .banner1 h4,.banner2 h4,.banner3 h4,.banner4 h4{
+        font-size: 15px;
+    }
+    
+    .banner2, .banner3, .banner4{
+        border-radius: 20px;
+    }
+}

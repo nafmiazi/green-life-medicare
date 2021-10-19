@@ -1,0 +1,30 @@
+.section{
+    font-family: 'Poppins', sans-serif;
+}
+
+.section h1,h2,h3,h4,h5,h6{
+    font-family: 'Rubik', sans-serif;
+}
+
+.underline{
+    position: relative;   
+}
+.underline::before{
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 38%;
+    width: 100px;
+    height: 2px;
+    background-color: gray;
+}
+
+.underline::after{
+    content: '';
+    position: absolute;
+    top: 15px;
+    right: 38%;
+    width: 100px;
+    height: 2px;
+    background-color: gray;
+}

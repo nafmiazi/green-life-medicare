@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Medical Counselling",
+    "img": "https://i.ibb.co/6sgghp7/service-img1.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  },
+  {
+    "id": 2,
+    "name": "Laboratory",
+    "img": "https://i.ibb.co/54q9Tqm/service-img2.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  },
+  {
+    "id": 3,
+    "name": "Surgical Operation",
+    "img": "https://i.ibb.co/NnDyCJ4/service-img3.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  },
+  {
+    "id": 4,
+    "name": "Medical Treatment",
+    "img": "https://i.ibb.co/gWtvcCb/service-img4.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  },
+  {
+    "id": 5,
+    "name": "Pharmacy Service",
+    "img": "https://i.ibb.co/6WBzqD6/service-img5.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  },
+  {
+    "id": 6,
+    "name": "Emergency Service",
+    "img": "https://i.ibb.co/RckYcnQ/service-img6.jpg",
+    "description": "We provide wide range of medical counselling by the professional doctor & therapist."
+  }
+]
